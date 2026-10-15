@@ -1,0 +1,2 @@
+# The Lambda Python 3.12 runtime already provides boto3 and botocore.
+# Do not vendor them into the deployment zip.
